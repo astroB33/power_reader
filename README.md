@@ -1,0 +1,2 @@
+Diplays on a HTML page the power values from the grid and solar panel, with the 2 previous days consumed and produced power.
+Listens on UDP_PORT_POWER port to get the IP on which the grid power should be sent and the requested sending state.
